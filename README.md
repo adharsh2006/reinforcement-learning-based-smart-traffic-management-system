@@ -6,8 +6,7 @@ This project implements a Deep Reinforcement Learning agent to control traffic s
 
 The agent uses a **Double Deep Q-Network (Double DQN)** algorithm, an advanced technique that provides more stable and robust learning compared to a standard DQN.
 
-![Training Results](httpseno://i.imgur.com/your-graph-image-url.png)
-*(Example of a final training graph showing the agent's reward improving over episodes)*
+
 
 ---
 
@@ -124,3 +123,7 @@ After a training run is complete, the script will generate the following files w
 -   **Plot Image:** A PNG image of the training graph will be saved in the `logs/` folder (e.g., `plot_TIMESTAMP.png`).
 
 You can use the CSV file in any spreadsheet software to create your own visualizations of the agent's learning progress.
+## Author
+
+-   **Owner:** ADHARSH V S
+-   **Email:** vsadharsh0@gmail.com
